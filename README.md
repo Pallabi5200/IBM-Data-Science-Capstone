@@ -39,6 +39,6 @@ Best Test Accuracy: 83.33%
 ## Repository Structure
 
 * notebooks/
-* datasets/
+* data/
 * screenshots/
 * spacex-dash-app.py
